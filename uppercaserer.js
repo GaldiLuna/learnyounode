@@ -1,3 +1,5 @@
+//É necessário instalar antes => npm install through2-map
+
 const http = require('http');
 
 const server = http.createServer((req, res) => {
